@@ -129,7 +129,7 @@ Output written to mpstats.json
 # Project Structure
 
 ```
-/project-folder
+/parse-mpstatssetup
 │
 ├── mpstatssetupui.xml   # Input XML
 ├── mpstats.txt          # Generated hash list
